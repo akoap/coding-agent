@@ -1,5 +1,4 @@
 import { Ollama, type Config } from 'ollama';
-// import { Model } from '../node_modules/@strands-agents/src/models/model.js';
 import { Model } from '../node_modules/@strands-agents/sdk/dist/src/models/model';
 import type { BaseModelConfig, StreamOptions } from '@strands-agents/sdk';
 import type { Message } from '@strands-agents/sdk';
